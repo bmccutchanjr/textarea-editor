@@ -1,2 +1,3 @@
 # textarea-editor
-enhancements for HTML &lt;textarea> to allow selected HTML tags
+
+Simple additions to permit a select list of HTML tags in user input.
